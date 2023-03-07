@@ -1,4 +1,4 @@
-# MYMUDUO
+# NetLibrary
 这是一个模仿muduo网络库实现的基于epoll的网络库框架。
 
 想比起传统muduo，**该网络库具有以下优点**：
